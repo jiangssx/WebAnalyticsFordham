@@ -1,0 +1,5 @@
+This project looks into the ticket prices during holiday season to compare and contrast between different airlines. From the companies’ point of view, examine ways that allow them to obtain more market share and to better take advantage of the season.
+
+The program was written to allow automated scraping when run it each day, storing the results in a text file on the local computer. Then used Pandas and Matplotlib to produce pie charts and box plots based on the needs, as well as using Excel to clean data and draw box plots. 
+
+The dataset contains flights departing from all New York airports that travel to five major cities (Boston, Los Angeles, Las Vegas, Seattle, and Houston) across the United States as destinations on a given date range, specifically from December 23rd, 2022, to January 2nd, 2023. 
